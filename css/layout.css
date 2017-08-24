@@ -328,38 +328,38 @@ ul#nav li.current a { color: #F06000; }
 .java {
   	width: 90%;
 	background: #355b4a;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
 .cpp {
   	width: 65%;
 	background: #4c1fc6;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: cpp 2s ease;
+  	-webkit-animation: cpp 2s ease;
 }
 .android {
 	width: 80%;
 	background: #c61f62;
-	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+	-moz-animation: android 2s ease;
+  	-webkit-animation: android 2s ease;
 }
 .unity {
 	width: 62%;
 	background: #36044f;
-	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+	-moz-animation: unity 2s ease;
+  	-webkit-animation: unity 2s ease;
 }
 .web{
 	width: 30%;
 	background: #d9e224;
-	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+	-moz-animation: web 2s ease;
+  	-webkit-animation: web 2s ease;
 }
 .machinelearning{
 	width: 80%;
 	background: #c439cc;
-	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+	-moz-animation: machinelearning 2s ease;
+  	-webkit-animation: machinelearning 2s ease;
 }
 
 
