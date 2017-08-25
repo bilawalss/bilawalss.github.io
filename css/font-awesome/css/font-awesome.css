@@ -25,6 +25,10 @@
   line-height: 0.75em;
   vertical-align: -15%;
 }
+
+.fa-big_icon {
+  font-size: 32em;
+}
 .fa-2x {
   font-size: 2em;
 }
@@ -36,6 +40,24 @@
 }
 .fa-5x {
   font-size: 5em;
+}
+.fa-6x {
+  font-size: 6em;
+}
+.fa-7x {
+  font-size: 7em;
+}
+.fa-8x {
+  font-size: 8em;
+}
+.fa-9x {
+  font-size: 9em;
+}
+.fa-10x {
+  font-size: 10em;
+}
+.fa-11x {
+  font-size: 11em;
 }
 .fa-fw {
   width: 1.28571429em;
